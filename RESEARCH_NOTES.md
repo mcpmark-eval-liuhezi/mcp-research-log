@@ -1,0 +1,3 @@
+# MCP Research Notes
+
+This is an ongoing log of community discussion about the Model Context Protocol (MCP). It collects reactions, questions, feature requests, and feedback from developers across GitHub — issues, discussions, and pull requests — so that scattered notes about how the community is responding to MCP can live in one place. Entries will be added and updated as the conversation around the protocol evolves.
